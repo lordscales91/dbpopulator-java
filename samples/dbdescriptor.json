@@ -1,0 +1,7 @@
+{
+"dbuser":"root","dbhost":"localhost", "dbpassword":"",
+"dbschema":"test", "dbtype":"mysql", "tables": [{
+	"name": "mytable", "fields": [{"name": "foo", "fieldType": "text"},
+		{"name": "bar", "fieldType": "number", "dataType": "decimal"}]
+	}]
+}
